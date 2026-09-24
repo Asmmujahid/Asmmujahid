@@ -1,97 +1,85 @@
 # Hi 👋, I'm Asma Mujahid
 
-### Software Engineer | Full Stack Developer
+Software Engineer | Full Stack Developer
+Laravel • React • PHP • MySQL
 
-I build modern, scalable web applications using Laravel, React, MySQL, JavaScript, and Bootstrap,
-focusing on clean architecture and real-world problem solving.
+I’m a Software Engineer and Full Stack Developer specializing in Laravel, React, PHP, and MySQL. I build responsive web applications, REST APIs, and role-based systems with a focus on clean, maintainable code.
 
-## 🚀 About Me
 
-* 🎓 Software Engineer
-* 💼 17 months professional experience as Web Developer (iCreativez Software Company)
-* 💻 Specialized in Laravel & Full Stack Development
-* 🔥 Passionate about building real-world projects
-* 🌍 Open to Remote & On-site Opportunities
-* 🎯 Focused on clean and scalable solutions
+## 👩‍💻 About Me
+
+- 💼 Software Engineer with 17 months of professional web development experience
+- 🚀 Full Stack Developer focused on Laravel & React
+- 🔧 Experienced in building REST APIs and full-stack applications
+- 🗄️ Comfortable with MySQL, authentication, and role-based access control
+- 🎨 Experienced with MUI, Tailwind CSS, Bootstrap, and responsive UI development
+- 🌱 Currently learning Docker, CI/CD, and cloud deployment
+
 
 ## 💼 Professional Experience
-Web Developer — iCreativez Software Company
-🕒 17 Months (Internship + Part-time)
 
- * Developed and maintained full-stack web applications using Laravel & React
- * Built RESTful APIs and authentication systems
- * Designed and optimized MySQL databases
- * Worked on real client-based production projects
- * Collaborated with team members using Git & Agile workflow
- * Fixed bugs and improved application performance in live systems
+### Web Developer — iCreativez
 
-✔ Received professional experience letter for contributions
+**17 months of professional experience**
 
-## 🛠 Tech Stack
+- Developed and maintained web applications using Laravel, PHP, HTML, CSS, JavaScript, and Bootstrap
+- Built and integrated REST APIs
+- Worked with MySQL databases and relational data
+- Developed responsive and user-friendly interfaces
+- Collaborated on real-world web development projects
 
-### Frontend
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js
-* Bootstrap
+## 🛠️ Tech Stack
 
-### Backend
+**Frontend**
 
-* Laravel (PHP Framework)
-* REST APIs
-* Authentication Systems
-  
-### Database
+HTML • CSS • JavaScript • React • Vite • Redux Toolkit • MUI • Tailwind CSS • Bootstrap
 
-* MySQL
+**Backend**
 
-### Tools
+PHP • Laravel 12 • REST APIs • Laravel Sanctum • Spatie Permission
 
-* Git & GitHub
-* VS Code
-* XAMPP
-* Postman
+**Database**
+
+MySQL
+
+**Tools**
+
+Git • GitHub • Postman • VS Code • XAMPP • Docker
+
 
 ## 📂 Featured Projects
 
-🛒 E-Commerce Web Application
+### 🛒 E-Commerce Web Application
 
-A full-stack e-commerce platform with separate React frontend and Laravel REST API backend.
+Full-stack e-commerce platform built with React and Laravel 12.
 
-Frontend:
-React • Vite • Redux Toolkit • MUI • Tailwind CSS
+**Frontend:** React • Vite • Redux Toolkit • MUI • Tailwind CSS
 
-Backend:
-Laravel 12 • PHP • MySQL • Sanctum • Spatie Permission
+**Backend:** Laravel 12 • PHP • MySQL • Sanctum • Spatie Permission
 
-Features include:
+**Key Features**
 
-🔐 Authentication & authorization
-👨‍💼 Admin dashboard
-🏪 Seller dashboard
-🛍️ Customer shopping experience
-📦 Product management
-🎯 Product variants
-📊 Inventory management
-🛒 Cart & wishlist
-📋 Orders & order management
-💳 Payment management
-🎟️ Coupons
-⭐ Reviews
-📍 Addresses
-🔔 Notifications
-🔎 Search, filtering, sorting & pagination
-🔑 Role-based permissions
+- 🔐 Authentication & role-based authorization
+- 👨‍💼 Admin dashboard
+- 🏪 Seller dashboard
+- 🛍️ Customer shopping experience
+- 📦 Product & variant management
+- 📊 Inventory management
+- 🛒 Cart & wishlist
+- 📋 Order management
+- 💳 Payment management
+- 🎟️ Coupons
+- ⭐ Reviews
+- 🔎 Search, filtering, sorting & pagination
 
-Live Application:
+**Live Demo:**  
 https://ecommerce-frontend-nine-blue.vercel.app/
 
-Frontend Repository:
+**Frontend:**  
 https://github.com/Asmmujahid/ecommerce-frontend
 
-Backend Repository:
+**Backend:**  
 https://github.com/Asmmujahid/ecommerce-backend
 
 
@@ -122,6 +110,7 @@ Role-based access
 Repository:
 https://github.com/Asmmujahid/laravel-task-management-system
 
+
 🏥 Doctor Clinic APIs
 
 REST APIs for a doctor clinic management system built using Laravel and MySQL.
@@ -134,15 +123,15 @@ CRUD operations
 API testing
 Backend architecture
 
-🤝 Let's Connect
+## 🌱 Currently Learning
 
-I'm interested in opportunities involving:
+- Docker & containerized development
+- CI/CD pipelines
+- Cloud deployment
+- Advanced Laravel architecture
+- Advanced React patterns
 
-Laravel • PHP • React • Full Stack Development • REST APIs
-
-Feel free to explore my repositories and projects.
-
-## 📫 Contact Me
+## 🤝 Connect With Me
 
 * 📧 Email: asmamujahid45@gmail.com
 * 💻 GitHub: github.com/Asmmujahid
