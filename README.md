@@ -139,7 +139,7 @@ Backend architecture
 * 📧 Email: asmamujahid45@gmail.com
 * 💻 GitHub: github.com/Asmmujahid
 * 💼 LinkedIn: https://www.linkedin.com/in/asma-syed-49a8b3339/
-* 🌐 Portfolio: coming soon
+* 🌐 Portfolio: https://asma-portfolio-roan.vercel.app/
 
 ⭐ Thanks for visiting my profile!
 
