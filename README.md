@@ -74,7 +74,7 @@ Full-stack e-commerce platform built with React and Laravel 12.
 - 🔎 Search, filtering, sorting & pagination
 
 **Live Demo:**  
-https://ecommerce-frontend-l67qif1dt-asma-projects2.vercel.app/
+https://ecommerce-frontend-nine-blue.vercel.app/
 
 **Frontend:**  
 https://github.com/Asmmujahid/ecommerce-frontend
