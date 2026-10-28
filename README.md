@@ -1,20 +1,23 @@
 # Hi 👋, I'm Asma Mujahid
 
-Software Engineer | Full Stack Developer
-Laravel • React • PHP • MySQL
+### Software Engineer | Full Stack Developer
 
-I’m a Software Engineer and Full Stack Developer specializing in Laravel, React, PHP, and MySQL. I build responsive web applications, REST APIs, and role-based systems with a focus on clean, maintainable code.
+**Laravel • React • PHP • MySQL • REST APIs • Docker**
 
+I'm a Software Engineer and Full Stack Developer with **17 months of professional web development experience**. I build full-stack web applications, REST APIs, and role-based systems using Laravel, React, PHP, and MySQL.
+
+I enjoy solving practical development problems, writing maintainable code, and continuously improving my skills through hands-on projects.
 
 ## 👩‍💻 About Me
 
-- 💼 Software Engineer with 17 months of professional web development experience
-- 🚀 Full Stack Developer focused on Laravel & React
-- 🔧 Experienced in building REST APIs and full-stack applications
-- 🗄️ Comfortable with MySQL, authentication, and role-based access control
-- 🎨 Experienced with MUI, Tailwind CSS, Bootstrap, and responsive UI development
-- 🌱 Currently learning Docker, CI/CD, and cloud deployment
-
+- 💼 17 months of professional web development experience at iCreativez
+- 🚀 Focused on Laravel, React, PHP, and full-stack development
+- 🔧 Experienced in REST APIs, authentication, and role-based access control
+- 🗄️ Work with MySQL, Eloquent ORM, and relational databases
+- 🎨 Build responsive interfaces using React, MUI, Tailwind CSS, and Bootstrap
+- 🐳 Practicing Docker, Docker Compose, and containerized application development
+- ⚙️ Learning CI/CD workflows and automated testing with GitHub Actions
+- 🎯 Interested in remote opportunities and building reliable web applications
 
 ## 💼 Professional Experience
 
@@ -22,126 +25,135 @@ I’m a Software Engineer and Full Stack Developer specializing in Laravel, Reac
 
 **17 months of professional experience**
 
-- Developed and maintained web applications using Laravel, PHP, HTML, CSS, JavaScript, and Bootstrap
-- Built and integrated REST APIs
-- Worked with MySQL databases and relational data
-- Developed responsive and user-friendly interfaces
-- Collaborated on real-world web development projects
-
+- Developed and maintained web applications using Laravel, PHP, JavaScript, HTML, CSS, and Bootstrap.
+- Built and integrated REST APIs for application features.
+- Worked with MySQL databases, CRUD operations, and relational data.
+- Developed responsive, user-friendly interfaces.
+- Contributed to real-world web development projects and application functionality.
 
 ## 🛠️ Tech Stack
 
 **Frontend**
 
-HTML • CSS • JavaScript • React • Vite • Redux Toolkit • MUI • Tailwind CSS • Bootstrap
+`HTML` `CSS` `JavaScript` `React` `Vite` `Redux Toolkit` `Material UI` `Tailwind CSS` `Bootstrap`
 
 **Backend**
 
-PHP • Laravel 12 • REST APIs • Laravel Sanctum • Spatie Permission
+`PHP` `Laravel 12` `REST APIs` `Laravel Sanctum` `Spatie Permission`
 
 **Database**
 
-MySQL
+`MySQL` `Eloquent ORM`
 
-**Tools**
+**Tools & DevOps**
 
-Git • GitHub • Postman • VS Code • XAMPP • Docker
-
+`Git` `GitHub` `Postman` `VS Code` `XAMPP` `Docker` `Docker Compose` `GitHub Actions`
 
 ## 📂 Featured Projects
 
-### 🛒 E-Commerce Web Application
+### 🛒 1. E-Commerce Web Application
 
-Full-stack e-commerce platform built with React and Laravel 12.
+A full-stack e-commerce application built with React and Laravel 12, featuring role-based access for administrators, sellers, and customers.
 
-**Frontend:** React • Vite • Redux Toolkit • MUI • Tailwind CSS
+**Frontend:** React, Vite, Redux Toolkit, Material UI, Tailwind CSS, Axios
 
-**Backend:** Laravel 12 • PHP • MySQL • Sanctum • Spatie Permission
+**Backend:** Laravel 12, PHP, MySQL, Sanctum, Spatie Permission
 
 **Key Features**
 
-- 🔐 Authentication & role-based authorization
-- 👨‍💼 Admin dashboard
-- 🏪 Seller dashboard
-- 🛍️ Customer shopping experience
-- 📦 Product & variant management
-- 📊 Inventory management
-- 🛒 Cart & wishlist
+- 🔐 Authentication and role-based authorization
+- 👨‍💼 Admin and seller management
+- 🛍️ Customer shopping functionality
+- 📦 Product and product variant management
+- 📊 Inventory and stock management
+- 🛒 Shopping cart and wishlist
 - 📋 Order management
-- 💳 Payment management
-- 🎟️ Coupons
-- ⭐ Reviews
-- 🔎 Search, filtering, sorting & pagination
+- 🎟️ Coupon management
+- ⭐ Product reviews
+- 🔎 Search, filtering, sorting, and pagination
 
-**Live Demo:**  
-https://ecommerce-frontend-nine-blue.vercel.app/
+**Project Links**
 
-**Frontend:**  
-https://github.com/Asmmujahid/ecommerce-frontend
+- [Frontend Repository](https://github.com/Asmmujahid/ecommerce-frontend)
+- [Backend Repository](https://github.com/Asmmujahid/ecommerce-backend)
 
-**Backend:**  
-https://github.com/Asmmujahid/ecommerce-backend
+**Local Development:** Docker Compose setup for the React frontend, Laravel backend, and MySQL database.
 
+*The previous public demo deployments have been removed. The source code remains available in the repositories.*
 
-📋 Laravel Task Management System
+---
 
-A multi-role task management application built with Laravel.
+### 📋 2. Laravel Task Management System
 
-Tech: Laravel 12 • PHP • MySQL • Blade • CSS • JavaScript
+A multi-role task management application built with Laravel 12, PHP, MySQL, Blade, CSS, and JavaScript.
 
-Roles:
+**User Roles**
 
-Admin
-Team Lead
-Team Member
+- Admin
+- Team Lead
+- Team Member
 
-Features:
+**Key Features**
 
-User management
-Team management
-Task creation & assignment
-Task status management
-Categories
-Comments
-File attachments
-Reports
-Role-based access
+- User and team management
+- Task creation and assignment
+- Task status tracking
+- Categories and comments
+- File attachments
+- Reports
+- Role-based access control
 
-**Live Demo:** 
-https://laravel-task-management-system-production.up.railway.app/
+**Repository:** [Laravel Task Management System](https://github.com/Asmmujahid/laravel-task-management-system)
 
-Repository:
-https://github.com/Asmmujahid/laravel-task-management-system
+*The previous public demo deployment has been removed.*
 
+---
 
-🏥 Doctor Clinic APIs
+### 🏥 3. Doctor Clinic APIs
 
-REST APIs for a doctor clinic management system built using Laravel and MySQL.
+A Laravel and MySQL REST API project focused on clinic management and backend development.
 
-Focus:
+**Focus Areas**
 
-RESTful API development
-Database relationships
-CRUD operations
-API testing
-Backend architecture
+- RESTful API development
+- CRUD operations
+- Database relationships
+- Request validation
+- API testing
+- Backend architecture
+
+**Repository:** Add the repository link here when its exact GitHub URL is confirmed.
+
+## 🐳 Docker & CI/CD Practice
+
+I've been building practical experience with containerized application development and automation.
+
+- Creating and running Docker images and containers
+- Writing Dockerfiles for Laravel applications
+- Managing services with Docker Compose
+- Connecting Laravel applications to MySQL containers
+- Working with persistent Docker volumes and container networks
+- Practicing automated checks and testing with GitHub Actions
+- Building and testing multi-container application environments
 
 ## 🌱 Currently Learning
 
-- Docker & containerized development
-- CI/CD pipelines
-- Cloud deployment
+- Docker and containerized development
+- CI/CD pipelines and automated testing
+- Production deployment fundamentals
 - Advanced Laravel architecture
-- Advanced React patterns
+- React application architecture
+- Application security and deployment best practices
 
 ## 🤝 Connect With Me
 
-* 📧 Email: asmamujahid45@gmail.com
-* 💻 GitHub: github.com/Asmmujahid
-* 💼 LinkedIn: https://www.linkedin.com/in/asma-syed-49a8b3339/
-* 🌐 Portfolio: https://asma-portfolio-roan.vercel.app/
+- 📧 **Email:** [asmamujahid45@gmail.com](mailto:asmamujahid45@gmail.com)
+- 💻 **GitHub:** [Asmmujahid](https://github.com/Asmmujahid)
+- 💼 **LinkedIn:** [Asma Mujahid](https://www.linkedin.com/in/asma-syed-49a8b3339/)
+- 🌐 **Portfolio:** [View My Portfolio](https://asma-portfolio-roan.vercel.app/)
+
+---
 
 ⭐ Thanks for visiting my profile!
 
-  Building. Learning. Improving. 🚀
-
+**Building. Learning. Improving. 🚀**
