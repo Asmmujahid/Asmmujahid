@@ -149,7 +149,7 @@ I've been building practical experience with containerized application developme
 
 - 📧 **Email:** [asmamujahid45@gmail.com](mailto:asmamujahid45@gmail.com)
 - 💻 **GitHub:** [Asmmujahid](https://github.com/Asmmujahid)
-- 💼 **LinkedIn:** [Asma Mujahid](https://www.linkedin.com/in/asma-syed-49a8b3339/)
+- 💼 **LinkedIn:** [Asma Mujahid](https://www.linkedin.com/in/asma-mujahid-49a8b3339/)
 - 🌐 **Portfolio:** [View My Portfolio](https://asma-portfolio-roan.vercel.app/)
 
 ---
