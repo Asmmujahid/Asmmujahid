@@ -4,7 +4,7 @@
 
 **Laravel • React • PHP • MySQL • REST APIs • Docker**
 
-I'm a Software Engineer and Full Stack Developer with **18 months of professional web development experience**. I build full-stack web applications, REST APIs, and role-based systems using Laravel, React, PHP, and MySQL.
+I'm a Software Engineer and Full Stack Developer with **17 months of professional web development experience**. I build full-stack web applications, REST APIs, and role-based systems using Laravel, React, PHP, and MySQL.
 
 I enjoy solving practical development problems, writing maintainable code, and continuously improving my skills through hands-on projects.
 
